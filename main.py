@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Binance 자동화 거래 시스템 - 메인 실행 파일
-이동평균선 골든크로스 전략을 사용한 BIC 자동 거래
+이동평균선 골든크로스 전략을 사용한 BTC 자동 거래
 """
 
 import sys
